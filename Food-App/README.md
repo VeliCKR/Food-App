@@ -6,6 +6,6 @@
 * Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 
-We design two pages one is the items page and another one is details page that will help you to design clear interfaces for food app faster and easier.
+ * We design two pages one is the items page and another one is details page that will help you to design clear interfaces for food app faster and easier.
 
 
