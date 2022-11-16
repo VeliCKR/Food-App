@@ -8,7 +8,4 @@
 
  * We design two pages one is the items page and another one is details page that will help you to design clear interfaces for food app faster and easier.
 
- ### Food App 
-![App UI](/food_app.png)
-
 
